@@ -53,3 +53,6 @@ CREATE VIEW Usuario_comentario AS SELECT usuario.ID_Usuario, Nombre_U, Rango, Ti
 SELECT*FROM Usuario_comentario;
 SELECT*FROM Usuario_comentario WHERE ID_Usuario=2;
 SELECT*FROM Usuario_comentario ORDER BY Rango;
+
+/* Denisse*/
+SELECT*FROM Usuario_comentario;
